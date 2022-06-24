@@ -4,4 +4,4 @@ These are a simple scripts to disable/enable idle so you don't have to open up c
 
 Credits Calypto https://calypto.us/
 
-(https://user-images.githubusercontent.com/107975725/175650038-1c48b0a7-a38e-43f9-8396-3693b844117f.png)
+![DisableIdle](https://user-images.githubusercontent.com/107975725/175650142-edbbd997-3054-4511-b9c0-07742f488afd.png)
